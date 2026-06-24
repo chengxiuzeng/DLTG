@@ -35,7 +35,7 @@
 ```bibtex
 @article{zeng2026survey,
   title={Deep Learning-Based Test Generation: A Comprehensive Survey},
-  author={Zeng, Chengxiu and Li, Tao and Yang, Jiahe and Huang, Rubing and Xie, xuan and Song, Jiayang and Fang, Chunrong and Dave, Towey and Ma, Lei},
+  author={Zeng, Chengxiu and Li, Tao and Yang, Jiahe and Huang, Rubing and Xie, Xuan and Song, Jiayang and Dave, Towey and Fang, Chunrong and Ma, Lei and Chen, Zhenyu},
   journal={arXiv preprint arXiv:}
   year={2026}
 }
