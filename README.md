@@ -1,6 +1,6 @@
 <h1 align = "center">🤖 DLTG Research</h1>
 
-**This repository provides academic publications on deep learning based test case generation (DLTG). It is organzied around our survey, _Deep Learning Based Test Case Generation: A Comprehensive Survey_, which reviews 186 publicaitons for inputs, approaches, test cases, evaluation methods, tools, application domains and testing phases, challenges and future works of DLTG.**
+**This repository provides academic publications on Deep-Learning-based-Test-Generation (DLTG). It is organzied around our survey, _Test Generation Based on Deep Learning: A Comprehensive Survey_, which reviews 186 publicaitons for inputs, approaches, test cases, evaluation methods, tools, application domains and testing phases, challenges and future works of DLTG.**
 
 ## 📖 Contents
 
@@ -34,7 +34,7 @@
 
 ```bibtex
 @article{zeng2026survey,
-  title={Deep Learning-Based Test Generation: A Comprehensive Survey},
+  title={Test Generation Based on Deep Learning: A Comprehensive Survey},
   author={Zeng, Chengxiu and Li, Tao and Yang, Jiahe and Huang, Rubing and Xie, Xuan and Song, Jiayang and Towey, Dave and Fang, Chunrong and Ma, Lei and Chen, Zhenyu},
   journal={arXiv preprint arXiv:}
   year={2026}
