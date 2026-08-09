@@ -1,6 +1,6 @@
 <h1 align = "center">🤖 DLTG Research</h1>
 
-**This repository provides academic publications on Deep-Learning-based-Test-Generation (DLTG). It is organzied around our survey, _Test Generation Based on Deep Learning: A Comprehensive Survey_, which reviews 186 publicaitons for inputs, approaches, test cases, evaluation methods, tools, application domains and testing phases, challenges and future works of DLTG.**
+**This repository provides academic publications on Deep-Learning-based Test Generation (DLTG). It is organzied around our survey, _Test Generation Based on Deep Learning: A Comprehensive Survey_, which reviews 186 publicaitons for inputs, approaches, test cases, evaluation methods, tools, application domains and testing phases, challenges and future works of DLTG.**
 
 ## 📖 Contents
 
