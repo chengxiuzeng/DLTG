@@ -44,5 +44,27 @@
       <td>https://github.com/WSP-LAB/Montage</td>
       <td>[129]</td>
     </tr>
+    <tr>
+      <td>Monkey++</td>
+      <td>Open-source</td>
+      <td>A black-box testing tool that extends Google Monkey by integrating a DL model to generate touch and gesture inputs for Android applications’ GUI.</td>
+      <td>https://github.com/Feri73/deep-gui</td>
+      <td>[262]</td>
+    </tr>
+    <tr>
+      <td>TestPilot</td>
+      <td>Open-source</td>
+      <td>Uses LLMs to automatically generate unit tests for JavaScript.</td>
+      <td>https://github.com/githubnext/testpilot</td>
+      <td>[207]</td>
+    </tr>
+    <tr>
+      <td>ChatUniTest</td>
+      <td>Open-source</td>
+      <td>A suite of tools for generating Java unit tests using LLMs, with mechanisms for handling context and repairing errors.</td>
+      <td>https://github.com/ZJU-ACES-ISE/ChatUniTest</td>
+      <td>[38]</td>
+    </tr>
+    <tr>
   </tbody>
 </table>
