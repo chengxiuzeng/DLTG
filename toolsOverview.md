@@ -1,5 +1,5 @@
 | Tool Name | Tool Type | Overview | Resource Link |
-|---|---|---|---|---|
+|---|---|---|---|
 | Deepfuzz | Open-source | Automatically (and continuously) generates well-formed C programs to fuzz test C compilers. | https://github.com/s3team/DeepFuzz |
 | PySE | Open-source | Automatically generates worst-case test inputs using RL to stress-test Python programs. | https://bitbucket.org/heltx979/pyse |
 | Humanoid | Open-source | An automated black-box Android app-testing tool based on DNN. | https://github.com/yzygitzh/Humanoid |
