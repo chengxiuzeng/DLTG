@@ -2,8 +2,8 @@
   <thead>
     <tr>
       <th width="12%">Tool Name</th>
-      <th width="20%">Tool Type</th>
-      <th width="40%">Overview</th>
+      <th width="30%">Tool Type</th>
+      <th width="30%">Overview</th>
       <th width="20%">Resource Link</th>
       <th width="8%">Reference</th>
     </tr>
