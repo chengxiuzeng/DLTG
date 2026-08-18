@@ -3,7 +3,7 @@
     <tr>
       <th width="12%">Tool Name</th>
       <th width="20%">Tool Type</th>
-      <th width="50%">Overview</th>
+      <th width="60%">Overview</th>
       <th width="20%">Resource Link</th>
       <th width="8%">Reference</th>
     </tr>
