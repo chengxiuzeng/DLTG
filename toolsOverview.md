@@ -58,19 +58,5 @@
       <td>https://github.com/githubnext/testpilot</td>
       <td>[207]</td>
     </tr>
-    <tr>
-      <td>ChatUniTest</td>
-      <td>Open-source</td>
-      <td>A suite of tools for generating Java unit tests using LLMs, with mechanisms for handling context and repairing errors.</td>
-      <td>https://github.com/ZJU-ACES-ISE/ChatUniTest</td>
-      <td>[38]</td>
-    </tr>
-    <tr>
-      <td>ChatTester</td>
-      <td>Open-source</td>
-      <td>Generates and optimizes Java unit tests through ChatGPT.</td>
-      <td>https://github.com/FudanSELab/ChatTester/tree/main</td>
-      <td>[273]</td>
-    </tr>
   </tbody>
 </table>
