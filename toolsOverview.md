@@ -36,7 +36,7 @@
 | AgoneTest | Research prototype | An automated tool for generating and assessing complex, class-level test suites for Java projects. | Not provided |
 | RUG | Research prototype | Automatically generates compilable, high-coverage unit tests for Rust projects. | Not provided |
 | IntUT | Research prototype | An IDE plugin that uses program analysis to produce test intentions to guide LLM-based unit test generation. | Not provided |
-| CubeTesterAI | Research prototype | An automated JUnit test-generation tool for Java Spring Boot applications that includes a web interface and integration with a CI/CD pipeline using GitLab [14] and Docker. | Not provided |
+| CubeTesterAI | Research prototype | An automated JUnit test-generation tool for Java Spring Boot applications that includes a web interface and integration with a CI/CD pipeline using GitLab and Docker. | Not provided |
 | DeepSeek-Fuzz | Research prototype | An AI-enhanced grey-box fuzzing tool for wireless communication protocols used in intelligent connected vehicles. | Not provided |
 | TestLoter | Research prototype | A logic-driven test-generation tool that integrates white-box and black-box testing strategies with a hierarchical repair mechanism to automatically generate test cases. | Not provided |
 | TestGen-LLM | Commercial | An automated unit-test improvement tool developed by Meta, based on LLMs, designed to enhance existing human-written test cases and improve reliability and coverage. | Not provided |
