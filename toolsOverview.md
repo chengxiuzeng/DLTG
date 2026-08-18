@@ -13,7 +13,7 @@
       <td>Deepfuzz</td>
       <td>Open-source</td>
       <td>Automatically (and continuously) generates well-formed C programs to fuzz test C compilers.</td>
-      <td><a href="https://github.com/s3team/DeepFuzz">GitHub</a></td>
+      <td>https://github.com/s3team/DeepFuzz>/td>
       <td>[153]</td>
     </tr>
   </tbody>
