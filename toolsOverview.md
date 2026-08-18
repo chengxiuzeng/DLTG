@@ -30,5 +30,19 @@
       <td>https://github.com/yzygtizh/Humanoid</td>
       <td>[143]</td>
     </tr>
+    <tr>
+      <td>DeepSQLi</td>
+      <td>Open-source</td>
+      <td>Automatically generates SQL-injection test cases by learning semantic knowledge from SQL statements.</td>
+      <td>https://github.com/COLA-Laboratory/issta2020</td>
+      <td>[151]</td>
+    </tr>
+    <tr>
+      <td>Montage</td>
+      <td>Open-source</td>
+      <td>A neural network language-model-guided fuzzer for finding JavaScript engine vulnerabilities, including vulnerabilities in CVE—a publicly available dictionary with known cybersecurity vulnerabilities across the security community.</td>
+      <td>https://github.com/WSP-LAB/Montage</td>
+      <td>[129]</td>
+    </tr>
   </tbody>
 </table>
