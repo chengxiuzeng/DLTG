@@ -30,13 +30,13 @@
 | PT-Fuzz | Research prototype | A transformer-based data-generation method for fuzzing that combines program execution-path information with DL to generate test cases that guide fuzz testing toward under-explored code regions. | Not provided |
 | LAST | Research prototype | Generates SMT formulas to test SMT solvers. | Not provided | 
 | LIReDroid | Research prototype | A hybrid testing tool for Android applications that aims to replicate sensitive behaviors identified in static-analysis call chains. | Not provided | 
-| GPT-powered chatbot | Research prototype | Generates Cucumber [136] test scenarios from natural-language requirements. | Not provided |
-| Cypress Copilot | Research prototype | A Visual Studio Code [165] IDE extension powered by GPT-4o and a few-shot chain-prompting technique that automatically generates Cypress [46] test code from BDD scenarios. | Not provided |
+| GPT-powered chatbot | Research prototype | Generates Cucumber test scenarios from natural-language requirements. | Not provided |
+| Cypress Copilot | Research prototype | A Visual Studio Code IDE extension powered by GPT-4o and a few-shot chain-prompting technique that automatically generates Cypress test code from BDD scenarios. | Not provided |
 | FuzzGPT | Research prototype | Primes LLMs with historical bug-triggering programs to generate unusual, edge-case code snippets to fuzz DL libraries. | Not provided |
 | AgoneTest | Research prototype | An automated tool for generating and assessing complex, class-level test suites for Java projects. | Not provided |
-| RUG | Research prototype | Automatically generates compilable, high-coverage unit tests for Rust [114] projects. | Not provided |
+| RUG | Research prototype | Automatically generates compilable, high-coverage unit tests for Rust projects. | Not provided |
 | IntUT | Research prototype | An IDE plugin that uses program analysis to produce test intentions to guide LLM-based unit test generation. | Not provided |
-| CubeTesterAI | Research prototype | An automated JUnit test-generation tool for Java Spring Boot [122] applications that includes a web interface and integration with a CI/CD pipeline using GitLab [14] and Docker. | Not provided |
+| CubeTesterAI | Research prototype | An automated JUnit test-generation tool for Java Spring Boot applications that includes a web interface and integration with a CI/CD pipeline using GitLab [14] and Docker. | Not provided |
 | DeepSeek-Fuzz | Research prototype | An AI-enhanced grey-box fuzzing tool for wireless communication protocols used in intelligent connected vehicles. | Not provided |
 | TestLoter | Research prototype | A logic-driven test-generation tool that integrates white-box and black-box testing strategies with a hierarchical repair mechanism to automatically generate test cases. | Not provided |
-| TestGen-LLM | Commercial | An automated unit-test improvement tool developed by Meta [164], based on LLMs, designed to enhance existing human-written test cases and improve reliability and coverage. | Not provided |
+| TestGen-LLM | Commercial | An automated unit-test improvement tool developed by Meta, based on LLMs, designed to enhance existing human-written test cases and improve reliability and coverage. | Not provided |
