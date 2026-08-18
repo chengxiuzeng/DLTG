@@ -66,5 +66,25 @@
       <td>[38]</td>
     </tr>
     <tr>
+      <td>ChatTester</td>
+      <td>Open-source</td>
+      <td>Generates and optimizes Java unit tests through ChatGPT.</td>
+      <td>https://github.com/FudanSELab/ChatTester/tree/main</td>
+      <td>[273]</td>
+    </tr>
+    <tr>
+      <td>LLM4Fin</td>
+      <td>Open-source</td>
+      <td>Uses an LLM to automatically generate high-coverage test cases from natural-language business rule documents for Fintech software acceptance testing.</td>
+      <td>https://github.com/13huoyu/mtelligent-test</td>
+      <td>[253]</td>
+    </tr>
+    <tr>
+      <td>HITS</td>
+      <td>Open-source</td>
+      <td>Generates high-coverage unit tests for complex Java methods using an LLM and method slicing.</td>
+      <td>https://github.com/eecshopc/HITS</td>
+      <td>[240]</td>
+    </tr>
   </tbody>
 </table>
