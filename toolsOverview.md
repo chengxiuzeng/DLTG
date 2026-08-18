@@ -72,6 +72,5 @@
       <td>https://github.com/FudanSELab/ChatTester/tree/main</td>
       <td>[273]</td>
     </tr>
-    <tr>
   </tbody>
 </table>
