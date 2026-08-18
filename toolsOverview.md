@@ -1,11 +1,11 @@
 <table>
   <thead>
     <tr>
-      <th width="12%">Tool Name</th>
-      <th width="30%">Tool Type</th>
-      <th width="30%">Overview</th>
-      <th width="20%">Resource Link</th>
-      <th width="8%">Reference</th>
+      <th width="10%">Tool Name</th>
+      <th width="25%">Tool Type</th>
+      <th width="45%">Overview</th>
+      <th width="15%">Resource Link</th>
+      <th width="5%">Reference</th>
     </tr>
   </thead>
   <tbody>
